@@ -73,3 +73,34 @@ and set the values of CSS properties.
 ### Event Methods
 
 - The `.on()` method is use to handle all events .
+
+
+# 6 Reasons for Pair Programming
+
+1. Greater efficiency
+
+- When two people focus on the same code base, it is easier to catch mistakes in the making. 
+
+- Studies show that PP usually takes longer but produces higher quality code.
+
+2. Enagaged collaboration
+
+- When two people are focused on the same code both people will be more focused than if they were working alone.
+
+3. Learning from fellow students
+
+- Everybody has a different point of view. Working with someone like that can help you expand your point of view.
+
+4. Social skills
+
+- Working with someone forces you to sharpen your communication skills.
+
+5. Job interview readiness
+
+- A common step in many interview processes involves pair programming between a current employee and an applicant.
+
+- So having experince PP will be helpful in the interview process.
+
+6. Work environment readiness
+
+- People who are already familiar with how pairing works can hit the ground running at a new job, with one less hurdle to overcome.
