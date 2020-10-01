@@ -1,4 +1,6 @@
-# JQUERY
+# Read: 02 - jQuery, Events, and The DOM
+
+## JQUERY
 
 - jQuery is a JS file that you put in your web pages. Allows you to find elements using style selectors and then use jQuery methods to modify them.
 
