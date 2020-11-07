@@ -18,7 +18,7 @@
 
 - Get method - used by the browser to ask the server to send back a given resource.
 
-- method the browser uses to talk to the server when asking for a response that takes into account the data provided in the body of the HTTP request.
+- Post method the browser uses to talk to the server when asking for a response that takes into account the data provided in the body of the HTTP request.
 
 ### Viewig HTTP requests
 
