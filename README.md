@@ -1,4 +1,4 @@
-# Readoing Notes
+# Reading Notes
 
 - This is going to be a documented journey fromwhat I learned at Code Fellows
 
