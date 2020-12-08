@@ -8,6 +8,22 @@
 
 ## Code 301 - Intermediate Software Development
 
+- [Read-01](301-Javascript/READ-01-SMACSS-and-Responsive-Web-Design.md)
+- [Read-02](301-Javascript/READ-02-jQuery-Events-and-the-DOM.md)
+- [Read-03](301-Javascript/READ-03-Flexbox-and-Templating.md)
+- [Read-04](301-Javascript/Read-04-Responsive-Web-Design-and-Regular-Expressions.md)
+- [Read-05](301-Javascript/READ-05-Heroku-Deployment.md)
+- [Read-06](301-Javascript/READ-06-Node-Express-APIs.md)
+- [Read-07](301-Javascript/READ-07-APIs-continued.md)
+- [Read-08](301-Javascript/READ-08-SQL.md)
+- [Read-09](301-Javascript/READ-09_Refactoring.md)
+- [Read-10](301-Javascript/Read-10-The-Call-Stack-and-Debugging.md)
+- [Read-11](301-Javascript/Read-11-EJS.md)
+- [Read-12](301-Javascript/READ-12-Components.md)
+- [Read-13](301-Javascript/READ-13-Update-Delete.md)
+- [Read-14](301-Javascript/READ-14a-DB-Normalization.md)
+- [Read-15](301-Javascript/READ-15-Diversity-and-Inclusion.md)
+
 ## Code 401 - Advanced Software Development
 
 - [Read-01](401-Python/401-READ-CLASS-01.md)
