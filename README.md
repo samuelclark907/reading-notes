@@ -10,5 +10,13 @@
 
 ## Code 401 - Advanced Software Development
 
-- [Read-01](401-Python/401-READ-CLASS-01.md)
-- [Read-02](401-Python/401-READ-CLASS-02.md)
+- [Read-01](401-Python\401-READ-CLASS-01.md)
+- [Read-02](401-Python\401-READ-CLASS-02.md)
+- [Read-03](*)
+- [Read-04](*)
+- [Read-05](*)
+- [Read-06](*)
+- [Read-07](*)
+- [Read-08](*)
+- [Read-09](*)
+- [Read-10](*)
