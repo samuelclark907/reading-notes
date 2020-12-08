@@ -1,6 +1,6 @@
 # Reading Notes
 
-- This is going to be a documented journey fromwhat I learned at Code Fellows
+- This is going to be a documented journey from what I learned at Code Fellows
 
 ## Code 102 - Intro to Software Development
 
