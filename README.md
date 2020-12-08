@@ -6,9 +6,9 @@
 
 ## Code 201 - Foundations of Software Development
 
-### Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
-#### Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development
 
-- [Read-01](python/401-READ-CLASS-01.md)
-- [Read-02](python/401-READ-CLASS-02.md)
+- [Read-01](401-Python/401-READ-CLASS-01.md)
+- [Read-02](401-Python/401-READ-CLASS-02.md)
