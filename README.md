@@ -28,7 +28,7 @@
 
 - [Read-01](401-Python/401-READ-CLASS-01.md)
 - [Read-02](401-Python/401-READ-CLASS-02-TESTING-MODULES.md)
-- [Read-03](*)
+- [Read-03](401-Python/401-CLASS-03-FILElO-EXCEPTIONS.md)
 - [Read-04](*)
 - [Read-05](*)
 - [Read-06](*)
