@@ -32,7 +32,7 @@
 - [Read-04](401-Python/401-READ-CLASS-04-CLASSES-OBJECTS.md)
 - [Read-05](*)
 - [Read-06](401-Python/401-READ-CLASS-06.md)
-- [Read-07](*)
+- [Read-07](401-Python/401-READ-CLASS-07.md)
 - [Read-08](*)
 - [Read-09](*)
 - [Read-10](*)
