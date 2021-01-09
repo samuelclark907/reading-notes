@@ -21,3 +21,15 @@
 - `__len__` and `__getitem__` are used to iterate over a non iterable item and getitem retrieves the value.
 
 - You can make an object callable like a regular function by adding the `__call__` dunder method.
+
+## Statistics Probablity
+
+### What is probability?
+
+- At the most basic level, probability seeks to answer the question, “What is the chance of an event happening?” An event is some outcome of interest.
+
+### The Data and Distribution
+
+- The normal distribution refers to a particularly important phenomenon in the realm of probability and statistics.
+
+- We started with descriptive statistics and then connected them to probability. From probability, we developed a way to quantatively show if two groups come from the same distribution.
