@@ -8,7 +8,7 @@
 
 ### Stack Visualization
 
-![Stack](images/stack1.png)
+![Stack](/images/stack1.png)
 
 ### Push O(1)
 
