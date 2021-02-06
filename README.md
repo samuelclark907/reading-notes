@@ -42,4 +42,5 @@
 - [Read-14](401-Python/401-READ-CLASS-14.md)
 - [Read-15](401-Python/401-READ-CLASS-Trees.md)
 - [Read-17](401-Python/401-READ-CLASS-17.md)
+- [Read-18](401-Python/401-READ-CLASS-18.md)
 
