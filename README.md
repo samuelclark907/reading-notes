@@ -46,4 +46,6 @@
 - [Read-19](401-Python/401-READ-CLASS-19.md)
 - [Read-20](401-Python/401-CLASS-26-DJANGO.md)
 - [Read-21](401-Python/401-CLASS-27-DJANGO-MODELS.md)
+- [Read-22](401-READ-CLASS-28-DJANGO-FORMS.md)
+
 
