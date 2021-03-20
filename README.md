@@ -50,6 +50,7 @@
 - [Read-23](401-Python/401-CLASS-29-DJANGO-USER-MOD.md)
 - [Read-24](401-Python/401-CLASS-30-HASH-TABLES.md)
 - [Read-25](401-Python/401-READ-CLASS-31-DJANGO-REST-DOCKER.md)
+- [Read-26](401-Python/401-READ-CLASS-32.md)
 
 
 
