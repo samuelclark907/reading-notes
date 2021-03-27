@@ -52,6 +52,7 @@
 - [Read-25](401-Python/401-READ-CLASS-31-DJANGO-REST-DOCKER.md)
 - [Read-26](401-Python/401-READ-CLASS-32.md)
 - [Read-27](401-Python/401-READ-CLASS-33.md)
+- [Read-28](401-Python/401-READ-CLASS-34.md)
 
 
 
