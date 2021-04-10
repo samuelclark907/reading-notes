@@ -40,3 +40,7 @@ An element describes what you want to see on the screen:
 
 [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
+### Handling Events
+
+[Handling Events](https://reactjs.org/docs/handling-events.html)
+
