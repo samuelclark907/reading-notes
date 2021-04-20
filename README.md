@@ -58,6 +58,7 @@
 - [Read-31](401-Python/401-READ-CLASS-37.md)
 - [Read-32](401-Python/401-READ-CLASS-38.md)
 - [Read-33](401-Python/401-READ-CLASS-39.md)
+- [Read-34](401-Python/401-READ-CLASS-40.md)
 
 
 
